@@ -1,3 +1,6 @@
+# Updated from me:
+I updated by moving all classes related to PermissionUtils into MultiImagePicker library folder, because com.github.Promact:dynamic-permission-handling-android:1.0.1 is not available anymore.
+
 # MultiImagePicker
 [![](https://jitpack.io/v/chintan369/MultiImagePicker.svg)](https://jitpack.io/#chintan369/MultiImagePicker)
 
