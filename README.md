@@ -1,4 +1,4 @@
-# Updated
+# Updated by me, bnnguyen
 I updated in dev branch.
 
 # MultiImagePicker
