@@ -1,6 +1,3 @@
-# Updated by me, bnnguyen
-I updated in dev branch.
-
 # MultiImagePicker
 [![](https://jitpack.io/v/chintan369/MultiImagePicker.svg)](https://jitpack.io/#chintan369/MultiImagePicker)
 
